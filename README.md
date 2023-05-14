@@ -8,3 +8,8 @@ XCode Themes
 > ```powershell
 > brew install --cask font-fira-code
 > ```
+
+## Installation
+
+- Copy `.xcolortheme` file.
+- Paste into `~/Library/Developer/Xcode/UserData/FontAndColorThemes` directory.
